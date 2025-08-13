@@ -99,20 +99,7 @@ Prediction: Malignant
 - **Research**: Serves as a baseline model for academic projects.
 
 ---
-
-## 📜 License
-This project is licensed under the **MIT License** — you are free to use, modify, and distribute with attribution.
-
----
-
-## 👩‍💻 Author
-**Nagula Sravya**  
-📩 Email: your-email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com)
-
----
-
-## 📦 requirements.txt
+## 📦 requirements
 ```
 streamlit
 numpy
